@@ -22,19 +22,6 @@ git clone https://github.com/yourusername/analogQT.git
 cd analogQT
 pip install -r requirements.txt
 
-
-▎Usage
-
-To use analogQT, run the following command in your terminal:
-
-python main.py [options] <image_path>
-
-
-Replace <image_path> with the path to the image you want to process. For a full list of options, use:
-
-python main.py --help
-
-
 ▎Conditions of Use
 
 This source code is open for use under the following conditions:
